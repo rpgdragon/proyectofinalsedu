@@ -1,0 +1,22 @@
+{
+  "name": "proyectofinalsedu",
+  "version": "1.0.0",
+  "description": "Proyecto final SEDU para unir la pasarela con el servicio ThingSpeak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpgdragon/proyectofinalsedu.git"
+  },
+  "author": "José Manuel Castellano Domínguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpgdragon/proyectofinalsedu/issues"
+  },
+  "homepage": "https://github.com/rpgdragon/proyectofinalsedu#readme",
+  "dependencies": {
+    "rpi-dht-sensor": "^0.1.1"
+  }
+}
