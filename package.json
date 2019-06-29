@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rpgdragon/proyectofinalsedu#readme",
   "dependencies": {
-    "rpi-dht-sensor": "^0.1.1"
+    "mysql": "^2.17.1"
   }
 }
